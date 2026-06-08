@@ -1,6 +1,11 @@
 # UAlarms - ESP32 Air Alert Monitor
 ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white) ![Adafruit](https://img.shields.io/badge/Adafruit-%23000000.svg?style=for-the-badge&logo=adafruit&logoColor=white) <br>
 UAlarms is a compact ESP32-based device that displays real-time air raid alerts across all regions of Ukraine on a 128×64 OLED screen.
+
+<img width="256" height="128" alt="Ukraine_Map" src="https://github.com/user-attachments/assets/eeed61d2-9fd0-4a9b-850b-95266cedef1f" />
+<img width="256" height="128" alt="Ukraine_Regions_alarm" src="https://github.com/user-attachments/assets/d6e8d741-86de-4996-986e-d31301503bbe" />
+<img width="256" height="128" alt="Ukraine_Regions_alarm2" src="https://github.com/user-attachments/assets/66ad1014-0e1c-4937-8248-ca8d23d548fc" />
+
 ## Hardware
  
 | Component | Role |
