@@ -134,7 +134,6 @@ void setup()
 
 void loop()
 {
-  // put your main code here, to run repeatedly:
   buttonState = digitalRead(5);
   if ((millis() - http_started >= http_timer && IsScreenOff == false) || (CheckOnSetup == true && IsScreenOff == false))
   {
