@@ -45,7 +45,7 @@ To protect the OLED panel, the device implements automatic sleep after a configu
 ### 1. Clone the repository
  
 ```bash
-[git clone https://github.com/your-username/ukraine-alarm-map.git](https://github.com/RomanMirka/UAlarms-ESP32_Air_Alert_Monitor.git)
+git clone https://github.com/RomanMirka/UAlarms-ESP32_Air_Alert_Monitor.git
 cd UAlarms-ESP32_Air_Alert_Monitor
 ```
  
